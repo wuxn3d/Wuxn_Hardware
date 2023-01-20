@@ -15,7 +15,7 @@ All of the other Wuxn WXR printed parts do not require support material if orien
 
 # License 
 
-The Wuxn WXR printed parts are liscensed under the GNU GPL 3 license. 
+The Wuxn WXR printed parts are liscensed under the Creative Commons Zero v1.0 Universal.
 
 # Disclaimer
 
