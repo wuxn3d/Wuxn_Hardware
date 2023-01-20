@@ -19,7 +19,8 @@ The Wuxn WXR printed parts are liscensed under the GNU GPL 3 license.
 
 # Disclaimer
 
-There is no warranty for the parts, to the extent permitted by applicable law.  Wuxn provides this parts "as is" without warrenty of any kind, either expressed or implied, inlcuding, but not limited to, the implied warranties of merchantability and fitness for a particular purpose.  The entire risk as to the quality and performance of the parts is with you.  
+Wuxn offers the Work as-is and makes no representations or warranties of any kind concerning the Work, express, implied, statutory or otherwise, including without limitation warranties of title, merchantability, fitness for a particular purpose, non infringement, or the absence of latent or other defects, accuracy, or
+the present or absence of errors, whether or not discoverable, all to the greatest extent permissible under applicable law.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 <footer>
