@@ -7,7 +7,7 @@ Please select the following items when printing the Wuxn WXR parts using WuxnSli
 + Material = Wuxn Classic PETG or ASA
 + Profile = Strong (0.16mm)
 
-Some of the Wuxn WXR printed parts require support material. The parts that require support material enabled are as follows:
+Some of the Wuxn WXR printed parts require support material and are as follows:
 + Front Fan Bracket
 + Mainboard Case
 
