@@ -22,6 +22,8 @@ The Wuxn Calibration Cube is printed to confirm dimensional accuracy and print q
 
 <a href="https://github.com/jenbhie/voron-calibration-cube"> Voron_Design_Cube_v7.stl </a>
 
+<a href="https://vorondesign.com/"> VoronDesign Team </a>
+
 # License 
 
 The Wuxn WXR printed parts are liscensed under the Creative Commons Zero v1.0 Universal.
