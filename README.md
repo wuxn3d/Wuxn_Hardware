@@ -9,19 +9,18 @@ Please select the following items when printing the Wuxn WXR parts using WuxnSli
 
 Some of the Wuxn WXR printed parts require support material. The parts that require support material enabled are as follows:
 + Front Fan Bracket
-+ SKR Case
++ Mainboard Case
 
 All of the other Wuxn WXR printed parts do not require support material if oriented correctly.
 
 # Wuxn Calibration Cube
 
-The Wuxn Calibration Cube is printed to confirm dimensional accuracy and print quality of your new Wuxn WXR machine. The design is proudly based on the Voron_Design_Cube_v7.stl published by jenbhie and the VoronDesign team. 
-
+The Wuxn Calibration Cube is printed to confirm dimensional accuracy and print quality of your new Wuxn WXR machine. The design is proudly based on the Voron_Design_Cube_v7.stl published by jenbhie and the VoronDesign team. To learn more about the Wuxn Calibration Cube please refer to the Quick Start Guide and User's Manual supplied with your Wuxn WXR. 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65782241/213800102-d3f787ca-f74b-46b1-978c-11c0693c16e8.png" width=50% height=50%>
 </p>
-To learn more about the Wuxn Calibration Cube please refer to the Quick Start Guide and User's Manual supplied with your Wuxn WXR. 
-To learn more about the orginial cube design visit https://github.com/jenbhie/voron-calibration-cube.
+
+<a href="https://github.com/jenbhie/voron-calibration-cube"> Voron_Design_Cube_v7.stl </a>
 
 # License 
 
