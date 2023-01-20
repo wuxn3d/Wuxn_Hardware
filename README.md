@@ -13,6 +13,12 @@ Some of the Wuxn WXR printed parts require support material. The parts that requ
 
 All of the other Wuxn WXR printed parts do not require support material if oriented correctly.
 
+# Wuxn Calibration Cube
+
+The Wuxn Calibration Cube is printed to confirm dimensional accuracy and print quality of your new Wuxn WXR machine.
+
+![Wuxn Calibration Cube](https://user-images.githubusercontent.com/65782241/213800102-d3f787ca-f74b-46b1-978c-11c0693c16e8.png)
+
 # License 
 
 The Wuxn WXR printed parts are liscensed under the Creative Commons Zero v1.0 Universal.
