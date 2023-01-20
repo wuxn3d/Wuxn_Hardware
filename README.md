@@ -15,7 +15,7 @@ All of the other Wuxn WXR printed parts do not require support material if orien
 
 ## Wuxn Calibration Cube
 
-The Wuxn Calibration Cube is printed to confirm dimensional accuracy and print quality of your new Wuxn WXR machine. The design is proudly based on the <a href="https://github.com/jenbhie/voron-calibration-cube"> Voron_Design_Cube_v7.stl </a> published by jenbhie and the <a href="https://vorondesign.com/"> VoronDesign Team </a>. To learn more about the Wuxn Calibration Cube please refer to the Quick Start Guide and User's Manual supplied with your Wuxn WXR. 
+The Wuxn Calibration Cube is printed to confirm dimensional accuracy and print quality of the Wuxn WXR 3D Printer. The design is proudly based on the <a href="https://github.com/jenbhie/voron-calibration-cube"> Voron_Design_Cube_v7.stl </a> published by jenbhie and the <a href="https://vorondesign.com/"> VoronDesign Team </a>. To learn more about the Wuxn Calibration Cube please refer to the Quick Start Guide and User's Manual supplied with your Wuxn WXR. 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65782241/213800102-d3f787ca-f74b-46b1-978c-11c0693c16e8.png" width=50% height=50%>
 </p>
