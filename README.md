@@ -19,7 +19,7 @@ The Wuxn Calibration Cube is printed to confirm dimensional accuracy and print q
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65782241/213800102-d3f787ca-f74b-46b1-978c-11c0693c16e8.png" width=50% height=50%>
 </p>
-
+If you wish to print the Wuxn Calibration Cube with the settings from the factory, download the file "Out of Box Wizard Print.Gcode".
 # License 
 
 The Wuxn WXR printed parts are liscensed under the Creative Commons Zero v1.0 Universal.
